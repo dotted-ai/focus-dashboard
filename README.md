@@ -1,6 +1,7 @@
 # FOCUS Dashboard
 
-![FOCUS Dashboard](https://placeholder.svg?height=400&width=800)
+<img width="1687" alt="Screenshot 2025-03-20 at 17 59 15" src="https://github.com/user-attachments/assets/f21dad76-9154-44a0-93b5-f678b375b994" />
+
 
 A comprehensive FinOps dashboard based on the FOCUS (FinOps Open Cost and Usage Specification) initiative, designed to help organizations monitor, analyze, and optimize their cloud spending and resource utilization.
 
