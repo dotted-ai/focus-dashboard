@@ -81,7 +81,7 @@ The FOCUS Dashboard provides a unified view of cloud costs, resource utilization
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/focus-dashboard.git
+   git clone https://github.com/dotted-ai/focus-dashboard.git
    cd focus-dashboard
    ```
 
